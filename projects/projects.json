@@ -40,63 +40,63 @@
     }
   },
   {
-    "name": "Rahul",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
-    "category": "mern",
+    "name": "Private Subnet from a Public Subnet Instance on AWS",
+    "desc": "Accessing an EC2 Instance in a Private Subnet from a Public Subnet Instance on AWS",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqu1xZvyvK8yf3tkhXZQe7HPruBFSWFg3AwK6Hba75XPF7KlfgZFUsjfjAyPd3LuCIVmqp8CYiMZAGVU2NutlP18gYAQZNgaVQkprFQugfwH4yn4n3vHMZkoWNffVp8DdkXYiYkIbVCADE4k30rW6k5Myl-S5prwYo0dOHe5BfvZ4J3By0yNVgmX9JcJs/w640-h360/blog%20banner%20(3).png",
+    "category": "aws",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://digitalclickin.blogspot.com/2023/08/accessing-ec2-instance-in-private.html",
+      "code": "#"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
-    "category": "mern",
+    "name": "Kubernetes Cluster",
+    "desc": "Deploy nginx with Kubernetes Cluster Installation through Kubeadm",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb2ASTlggv2PMJ8rd0BlSGzYnIdCeh0BVqOb55JIcmyM3Mv9F6RTQMrHuR87rX6yGF64T5_qGXj03uDJ8mhMx-zmNi925Z-5JDBdUmkzH9yKgcYk-0P-6tCdSCIQ5TrfKoHQfvVugB5HLGK2QQQCuKXNtzlSufjXC7pAlsyO2R-nMsz3nkphNrLBuS/w640-h360/blog%20banner%20(7).png",
+    "category": "Kubernetes",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://digitalclickin.blogspot.com/2023/05/deploy-nginx-with-kubernetes-cluster.html",
+      "code": "#"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "mern",
+    "name": "IAM Role, RDS, Docker, ECS and ECR",
+    "desc": "Deploy WordPress using IAM Role, RDS, Docker, ECS, and pushing it to ECR",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBPrVPAaJpe_QPm1xuqF6GGrb8BU6IVuRZocgUkUEvTinMXAI6m6-zVbF1FTQGxNhrBqR7gG_kvZysFISXmKox7MSdFZ8zi-yvdx-eGeJVWlmOjcLq3_ThI_8ieZlNffYI-RYebe-iY6EBeFrbpS1oDl6QkhnTgy2gULu61PbF-0_AptW9TnexuFMw/w640-h360/blog%20banner%20(3).png",
+    "category": "aws",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://digitalclickin.blogspot.com/2023/04/guide-deploying-wordpress-using-iam.html",
+      "code": "#"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "mern",
+    "name": "Docker Compose",
+    "desc": "Deploy a Node.js todo app with Docker Compose",
+    "image": "Docker",
+    "category": "Docker Compose",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://digitalclickin.blogspot.com/2023/03/towards-to-z-guide-on-how-to-deploy.html",
+      "code": "#"
     }
   },
   {
-    "name": "Flipkart PHP",
-    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
-    "category": "lamp",
+    "name": "Jenkins Pipeline",
+    "desc": "Deploying a React-Django App with Jenkins Pipeline, Docker, and Push DockerHub",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHqxA02yCdo5yky8M8wptrfGGEIQq2umjJmLkNChAwf9YlSTxq6EEKXPps1Z67R061SgeW-O1eIbfcHEDrAtkYrHHQmSHOJiELHWREvnEd7QH5297WbS-skONtZDDd4kQWuIRLW17JUN7L__gE8O9PCRVFgAVB9cEm1hQizn5QpIaRRgrCPeHWAl1/w640-h360/blog%20banner%20(5).png",
+    "category": "Jenkins Pipeline",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://digitalclickin.blogspot.com/2023/03/step-by-step-guide-to-deploying-react.html",
+      "code": "#"
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
-    "category": "basicweb",
+    "name": "Terraform IaC",
+    "desc": "Provision and Manage AWS EC2 Instances and S3 Bucket Using Terraform IaC",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigERphnfc_7T53dea0qwpihuiHqdLgL8vRTx4br9vkdm4Ek2qthSLQsg9nLZx9NjIeKQZYOUS42IMQ6doKeFyY5Gphf2skyKO1D64YBKsXhy67L7POMkq5AXkYAzIWIYx_GUBMOklzmL2sB--6KbgnxKC1Ds7sPdeE_5yt1PlSUyJ0lSVBif9C8Com/w640-h360/aws-s3.png",
+    "category": "Terraform IaC",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://digitalclickin.blogspot.com/2023/04/provision-and-manage-aws-ec2-instances.html",
+      "code": "#"
     }
   },
   {
