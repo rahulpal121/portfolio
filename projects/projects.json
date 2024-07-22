@@ -42,7 +42,7 @@
   {
     "name": "Private Subnet from a Public Subnet Instance on AWS",
     "desc": "Accessing an EC2 Instance in a Private Subnet from a Public Subnet Instance on AWS",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqu1xZvyvK8yf3tkhXZQe7HPruBFSWFg3AwK6Hba75XPF7KlfgZFUsjfjAyPd3LuCIVmqp8CYiMZAGVU2NutlP18gYAQZNgaVQkprFQugfwH4yn4n3vHMZkoWNffVp8DdkXYiYkIbVCADE4k30rW6k5Myl-S5prwYo0dOHe5BfvZ4J3By0yNVgmX9JcJs/w640-h360/blog%20banner%20(3).png",
+    "profileImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqu1xZvyvK8yf3tkhXZQe7HPruBFSWFg3AwK6Hba75XPF7KlfgZFUsjfjAyPd3LuCIVmqp8CYiMZAGVU2NutlP18gYAQZNgaVQkprFQugfwH4yn4n3vHMZkoWNffVp8DdkXYiYkIbVCADE4k30rW6k5Myl-S5prwYo0dOHe5BfvZ4J3By0yNVgmX9JcJs/w640-h360/blog%20banner%20(3).png",
     "category": "aws",
     "links": {
       "view": "https://digitalclickin.blogspot.com/2023/08/accessing-ec2-instance-in-private.html",
