@@ -53,7 +53,7 @@
     "name": "Kubernetes Cluster",
     "desc": "Deploy nginx with Kubernetes Cluster Installation through Kubeadm",
     "category": "Kubernetes",
-    "profileImage": "https://i.ibb.co/QMqwN3s/q.png",
+    "image": "https://i.ibb.co/QMqwN3s/q.png",
     "links": {
       "view": "https://digitalclickin.blogspot.com/2023/05/deploy-nginx-with-kubernetes-cluster.html",
       "code": "#"
